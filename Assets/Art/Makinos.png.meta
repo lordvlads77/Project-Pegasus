@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 5d73ba60909312b4b935ede62e3dec2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1960750218845494505
+    second: Makinos_0
+  - first:
+      213: 1759696827126001274
+    second: Makinos_1
+  - first:
+      213: -179870880357803435
+    second: Makinos_2
+  - first:
+      213: -2283699016134516296
+    second: Makinos_3
+  - first:
+      213: -1822048292120206101
+    second: Makinos_4
+  - first:
+      213: 3884698183336893693
+    second: Makinos_5
+  - first:
+      213: -4785212947835484015
+    second: Makinos_6
+  - first:
+      213: -3812960819680754567
+    second: Makinos_7
+  - first:
+      213: -3248636915954175280
+    second: Makinos_8
+  - first:
+      213: -8194546031688575398
+    second: Makinos_9
+  - first:
+      213: 925344388685677500
+    second: Makinos_10
+  - first:
+      213: -2470063962695559386
+    second: Makinos_11
+  - first:
+      213: 6253635457848306479
+    second: Makinos_12
+  - first:
+      213: 3511644533276928871
+    second: Makinos_13
+  - first:
+      213: 708750258563369400
+    second: Makinos_14
+  - first:
+      213: 5641776679787969780
+    second: Makinos_15
+  - first:
+      213: -8065670247633947187
+    second: Makinos_16
+  - first:
+      213: -413953884762564391
+    second: Makinos_17
+  - first:
+      213: -4960485571741627592
+    second: Makinos_18
+  - first:
+      213: 6363675198330317247
+    second: Makinos_19
+  - first:
+      213: -9071826557926565913
+    second: Makinos_20
+  - first:
+      213: -9144711571369051417
+    second: Makinos_21
+  - first:
+      213: 5998286904542668522
+    second: Makinos_22
+  - first:
+      213: -4099107745152661885
+    second: Makinos_23
+  - first:
+      213: -8375480754350641605
+    second: Makinos_24
+  - first:
+      213: -5633979227113232488
+    second: Makinos_25
+  - first:
+      213: 8143225658327012731
+    second: Makinos_26
+  - first:
+      213: -3986127273601306314
+    second: Makinos_27
+  - first:
+      213: -2005737019078738222
+    second: Makinos_28
+  - first:
+      213: -2572857551755958169
+    second: Makinos_29
+  - first:
+      213: 1372441817362003141
+    second: Makinos_30
+  - first:
+      213: 824511309629101291
+    second: Makinos_31
+  - first:
+      213: 8406252776878406702
+    second: Makinos_32
+  - first:
+      213: -1922372613876320169
+    second: Makinos_33
+  - first:
+      213: 322913046189514881
+    second: Makinos_34
+  - first:
+      213: 3404742054561171077
+    second: Makinos_35
+  - first:
+      213: -6525715069492517973
+    second: Makinos_36
+  - first:
+      213: 6613093188406542852
+    second: Makinos_37
+  - first:
+      213: 2837824812515191917
+    second: Makinos_38
+  - first:
+      213: -4733915941787445722
+    second: Makinos_39
+  - first:
+      213: -3722243131158633302
+    second: Makinos_40
+  - first:
+      213: -2725968736582981219
+    second: Makinos_41
+  - first:
+      213: 5085901694800808448
+    second: Makinos_42
+  - first:
+      213: -5088975515412064809
+    second: Makinos_43
+  - first:
+      213: 912145279952405170
+    second: Makinos_44
+  - first:
+      213: -7823357970360470463
+    second: Makinos_45
+  - first:
+      213: 7128531460072095732
+    second: Makinos_46
+  - first:
+      213: -3094636128429553002
+    second: Makinos_47
+  - first:
+      213: -8476492399613829649
+    second: Makinos_48
+  - first:
+      213: 435688548535597966
+    second: Makinos_49
+  - first:
+      213: 3697466054469893560
+    second: Makinos_50
+  - first:
+      213: -2625668660383318647
+    second: Makinos_51
+  - first:
+      213: -6958060315580252392
+    second: Makinos_52
+  - first:
+      213: -2102444172411709430
+    second: Makinos_53
+  - first:
+      213: 1302368098718425623
+    second: Makinos_54
+  - first:
+      213: -8533204835094078584
+    second: Makinos_55
+  - first:
+      213: 4545843426273451931
+    second: Makinos_56
+  - first:
+      213: -8260106112332227706
+    second: Makinos_57
+  - first:
+      213: -8552623894098952296
+    second: Makinos_58
+  - first:
+      213: -1352350572701811132
+    second: Makinos_59
+  - first:
+      213: -3940526689285934132
+    second: Makinos_60
+  - first:
+      213: 3840259706141069136
+    second: Makinos_61
+  - first:
+      213: 9053400826755939936
+    second: Makinos_62
+  - first:
+      213: 28292864583032457
+    second: Makinos_63
+  - first:
+      213: -1471574507113555882
+    second: Makinos_64
+  - first:
+      213: 9134818098071244105
+    second: Makinos_65
+  - first:
+      213: 4217234330204158422
+    second: Makinos_66
+  - first:
+      213: -7679982217134814749
+    second: Makinos_67
+  - first:
+      213: -3066762356070547410
+    second: Makinos_68
+  - first:
+      213: -6718749020509875266
+    second: Makinos_69
+  - first:
+      213: 1130542897455994080
+    second: Makinos_70
+  - first:
+      213: -5477595307899928476
+    second: Makinos_71
+  - first:
+      213: -5109152720810343276
+    second: Makinos_72
+  - first:
+      213: -432187044123872526
+    second: Makinos_73
+  - first:
+      213: 4210850069060968090
+    second: Makinos_74
+  - first:
+      213: -4846674777814349897
+    second: Makinos_75
+  - first:
+      213: -5453987701044654473
+    second: Makinos_76
+  - first:
+      213: -23554384396353995
+    second: Makinos_77
+  - first:
+      213: 7476305530720355280
+    second: Makinos_78
+  - first:
+      213: -5575878702615087476
+    second: Makinos_79
+  - first:
+      213: 1338260934008253932
+    second: Makinos_80
+  - first:
+      213: -7667197685462892125
+    second: Makinos_81
+  - first:
+      213: 7243666020731498885
+    second: Makinos_82
+  - first:
+      213: 4528284224350717534
+    second: Makinos_83
+  - first:
+      213: -5568233575483994034
+    second: Makinos_84
+  - first:
+      213: -1859689952067743818
+    second: Makinos_85
+  - first:
+      213: -3081552662710842002
+    second: Makinos_86
+  - first:
+      213: -1934510547618647492
+    second: Makinos_87
+  - first:
+      213: -7832169221165417310
+    second: Makinos_88
+  - first:
+      213: -8467981160723920526
+    second: Makinos_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Makinos_0
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 28
+        width: 332
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e17080140ac4e0800000000000000
+      internalID: -1960750218845494505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 143
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b45cdfe58ae2d0800000000000000
+      internalID: -3248636915954175280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_36
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 24
+        width: 248
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba32c7118b00075a0800000000000000
+      internalID: -6525715069492517973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 29
+        width: 291
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2cc13ac4798ac00800000000000000
+      internalID: 912145279952405170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 18
+        width: 218
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14471f93069dd6390800000000000000
+      internalID: -7823357970360470463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_46
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 25
+        width: 221
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3bc72891ade260800000000000000
+      internalID: 7128531460072095732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_48
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 29
+        width: 227
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed18bba2137d5a80800000000000000
+      internalID: -8476492399613829649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_50
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 29
+        width: 295
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd3eb959c9005330800000000000000
+      internalID: 3697466054469893560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_51
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 29
+        width: 295
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98df9f7c340cf8bd0800000000000000
+      internalID: -2625668660383318647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_52
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 29
+        width: 295
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb8142201007f90800000000000000
+      internalID: -6958060315580252392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_53
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 22
+        width: 268
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085f471a2e92d2e0800000000000000
+      internalID: -2102444172411709430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makinos_60
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 23
+        width: 221
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc37a299adf6059c0800000000000000
+      internalID: -3940526689285934132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

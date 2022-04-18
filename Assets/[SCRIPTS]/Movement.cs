@@ -9,9 +9,13 @@ public class Movement : MonoBehaviour
     [SerializeField] private KeyCode _horizontalR = default;
     [SerializeField] private KeyCode _jumpL = default;
     [SerializeField] private KeyCode _pause = default;
+    [SerializeField] private GameObject _jumpAsset = default;
+    [SerializeField] private SpriteRenderer _idleRend = default;
+    [SerializeField] private Animator _animator = default;
 
     void Update()
     {
+        
         if (Input.GetKey(_horizontalL))
         {
             Move(-1);
@@ -33,11 +37,15 @@ public class Movement : MonoBehaviour
     public void Move(int direction)
     {
         transform.Translate(direction * _speed * Time.deltaTime, 0, 0);
+        _jumpAsset.SetActive(false);
+        _idleRend.enabled = true;
     }
     
     public void Jump()
     {   
         transform.Translate(0, _jumpSpeed * _speed * Time.deltaTime, 0);
+        _jumpAsset.SetActive(true);
+        _idleRend.enabled = false;
     }
 
     public void Pause()
